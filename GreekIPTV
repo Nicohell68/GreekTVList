@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="ANT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="",ANT1 (1080p) [Geo-blocked]
-https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="megatv.com" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
+http://31.177.62.174:8003/play/s119
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
+http://31.177.62.174:8003/play/s120
 #EXTINF:-1 tvg-id="APT.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="" group-title="",APT (360p) [Not 24/7]
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="",ART TV (720p) [Not 24/7]
