@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="digea.alpha.gr" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8
-#EXTINF:-1 tvg-id="digea.mega.gr" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
-http://l1.cs-cdn.net/hlive/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMTYgNjozNDo0MCBQTSZoYXNoX3ZhbHVlPWpVVm16N0ZkMlowUkY1MWdzLzlVdGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:900 tvg-name="megatv.com" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA HD
+https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
 http://31.177.62.174:8003/play/s120
 #EXTINF:-1 tvg-id="ERT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341" group-title="",ERT 1 (1080p) [Geo-blocked]
