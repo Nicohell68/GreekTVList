@@ -35,8 +35,8 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/DOOVBu5.png" group-title="",Smile TV (360p) [Geo-blocked]
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:700 tvg-id="Star.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR  
-https://list.iptvcat.com/my_list/s/42dbafe681e5262e2fb794b0a8a84d71.m3u8
+#EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD 
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="ZouglaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="",Zougla TV (480p)
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 #EXTINF:-1 tvg-id="VoyliTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/7A86yAv.png" group-title="",Βουλή Τηλεόραση (540p)
