@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="digea.alpha.gr" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198757?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/49b4744366c8a80f49289226cd15c4ad.m3u8
 #EXTINF:-1 tvg-id="MegaTV.gr" status="online",Mega TV
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/409462?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/234df3522bcfc4e7e06d1b686f4b7f92.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",ANT1 
 http://31.177.62.174:8003/play/s120
 #EXTINF:-1 tvg-id="ERT1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=96176518&amp;t=1606877903341" group-title="",ERT 1 (1080p) [Geo-blocked]
@@ -36,7 +36,7 @@ https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/DOOVBu5.png" group-title="",Smile TV (360p) [Geo-blocked]
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:700 tvg-id="Star.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR  
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198760?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/42dbafe681e5262e2fb794b0a8a84d71.m3u8
 #EXTINF:-1 tvg-id="ZouglaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="",Zougla TV (480p)
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 #EXTINF:-1 tvg-id="VoyliTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/7A86yAv.png" group-title="",Βουλή Τηλεόραση (540p)
